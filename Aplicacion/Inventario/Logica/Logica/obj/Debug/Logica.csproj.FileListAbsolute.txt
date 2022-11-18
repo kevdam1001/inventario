@@ -1,0 +1,82 @@
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Charly\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Diego\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Carlos\Desktop\Proyecto\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\cemartinez\Desktop\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Charly\Downloads\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\cemartinez\Downloads\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Charly\Desktop\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\bin\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.pdb
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.dll
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.dll
+C:\Users\M315\Desktop\Inventario\Aplicacion\Inventario\Logica\Logica\obj\Debug\Logica.pdb

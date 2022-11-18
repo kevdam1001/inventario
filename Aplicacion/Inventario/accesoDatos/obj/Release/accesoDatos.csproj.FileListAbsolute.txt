@@ -1,0 +1,25 @@
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario - 010616\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario - 010616\Inventario\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario - 010616\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario - 010616\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario - 010616\Inventario\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario - 160616\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario - 160616\Aplicacion\Inventario\accesoDatos\bin\Release\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario - 160616\Aplicacion\Inventario\accesoDatos\obj\Release\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario - 160616\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario - 160616\Aplicacion\Inventario\accesoDatos\obj\Release\accesoDatos.pdb

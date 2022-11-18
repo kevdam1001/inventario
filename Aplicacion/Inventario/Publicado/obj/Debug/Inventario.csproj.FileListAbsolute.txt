@@ -1,0 +1,134 @@
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\Logica.dll
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Charly\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\Logica.dll
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Diego\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\Logica.dll
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Carlos\Desktop\Proyecto\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\cemartinez\Desktop\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Charly\Downloads\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\AjaxControlToolkit.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\AjaxControlToolkit.pdb
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\cemartinez\Downloads\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\AjaxControlToolkit.pdb
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Charly\Desktop\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Debug\Inventario.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Inventario.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Inventario.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Logica.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Logica.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Debug\Inventario.pdb

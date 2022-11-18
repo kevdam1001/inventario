@@ -1,0 +1,125 @@
+D:\Julio\URL\Base de Datos II\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+D:\Julio\URL\Base de Datos II\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+D:\Julio\URL\Base de Datos II\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\Julio\URL\Base de Datos II\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+D:\Julio\URL\Base de Datos II\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Compartido\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Compartido\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Compartido\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Documents\Compartido\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Compartido\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+\\LOPEZ2-PC\Compartido\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+\\LOPEZ2-PC\Compartido\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+\\LOPEZ2-PC\Compartido\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+\\LOPEZ2-PC\Compartido\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+\\LOPEZ2-PC\Compartido\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Desktop\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Documents and Settings\t213\Escritorio\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Documents and Settings\t213\Escritorio\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Documents and Settings\t213\Escritorio\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\t213\Escritorio\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Documents and Settings\t213\Escritorio\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\ULTIMA VERSION\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\ULTIMA VERSION\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Documents and Settings\t213\Escritorio\ULTIMA VERSION\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Documents and Settings\t213\Escritorio\ULTIMA VERSION\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Documents and Settings\t213\Escritorio\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\t213\Escritorio\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Documents and Settings\t213\Escritorio\ULTIMA VERSION\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ULTIMA VERSION 2.0\ULTIMA VERSION2019\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ULTIMA VERSION 2.0\ULTIMA VERSION2019\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ULTIMA VERSION 2.0\ULTIMA VERSION2019\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ULTIMA VERSION 2.0\ULTIMA VERSION2019\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Documents\Visual Studio 2008\Projects\ULTIMA VERSION 2.0\ULTIMA VERSION2019\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+\\JULIO-PC\Users\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+\\JULIO-PC\Users\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+\\JULIO-PC\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+\\JULIO-PC\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+\\JULIO-PC\Users\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Desktop\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+\\julio-pc\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+\\julio-pc\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+\\julio-pc\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+\\julio-pc\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+\\julio-pc\Users\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\LOPEZ\Desktop\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LOPEZ\Desktop\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\LOPEZ\Desktop\ESTE ES\Final Entrega\ProyectoBases2\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Proyecto\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Diego\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Diego\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Diego\Desktop\Proyecto\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Diego\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Carlos\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Carlos\Desktop\Proyecto\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Carlos\Desktop\Proyecto\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Carlos\Desktop\Proyecto\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Desktop\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\cemartinez\Desktop\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Desktop\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Desktop\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\cemartinez\Desktop\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Charly\Downloads\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Downloads\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Charly\Downloads\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Downloads\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Charly\Downloads\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Downloads\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\cemartinez\Downloads\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\cemartinez\Downloads\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Downloads\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\cemartinez\Downloads\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Desktop\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Charly\Desktop\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Charly\Desktop\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache

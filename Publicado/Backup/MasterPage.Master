@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Inventario.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head runat="server">
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="content-language" content="cs" />
+    <meta name="robots" content="all,follow" />
+    
+    <title>Inventario</title>
+    
+    <link rel="index" href="#" title="Home" />
+    <link rel="stylesheet" media="screen,projection" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" media="print" type="text/css" href="css/print.css" />
+    <link rel="stylesheet" media="aural" type="text/css" href="css/aural.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body id="www-url-cz">
+<form id="form1" runat="server" method="post">
+<div id="main" class="box">
+<div style =" text-align:right">
+ <asp:LinkButton ID="Cambio" runat="server" ForeColor="Black" 
+        CausesValidation="False" Font-Underline="True"  
+        onclick="Cambio_Click">Cambiar Contraseña</asp:LinkButton>
+ &nbsp;&nbsp;&nbsp;
+ <asp:LinkButton ID="LogOut" runat="server" ForeColor="Black" 
+        onclick="LogOut_Click" CausesValidation="False" Font-Underline="True" 
+         Font-Overline="False">Cerrar Sesión</asp:LinkButton>
+ </div>             
+    <div id="header">
+        <h1 id="logo">Inventario</h1>
+        <hr class="noscreen" />          
+    </div> 
+     <div id="tabs" class="noprint">
+     <ul id="menu-horizontal">
+        <asp:Label ID="Menu" runat="server"></asp:Label>
+        </ul>
+        <hr class="noscreen" />
+     </div>    
+    <div id="page" class="box">
+    <div id="page-in" class="box">
+    <center>
+    </center>
+       <center>   
+        <div id="content">
+            <div>
+                <div>
+                <center>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                    </asp:ContentPlaceHolder>
+                </center>
+                </div>
+            </div>
+            <hr class="noscreen" />
+        </div>
+        </center>  
+    </div>
+    </div> 
+    <div id="footer">
+    </div> 
+</div>
+ </form> 
+</body>
+</html>

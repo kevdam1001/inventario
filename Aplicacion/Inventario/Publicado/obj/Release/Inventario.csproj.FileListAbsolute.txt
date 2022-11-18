@@ -1,0 +1,27 @@
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Release\ResolveAssemblyReference.cache
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Release\Inventario.dll
+E:\Backup\BK_Inventario TEC\Inventario\Aplicacion\Inventario\Inventario\Inventario\obj\Release\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Release\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.dll
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\Logica.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\bin\accesoDatos.pdb
+C:\Users\Administrator\Desktop\Inventario - Actualización 1er Ciclo 2016\Aplicacion\Inventario\Inventario\Inventario\obj\Release\Inventario.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Inventario.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Inventario.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Logica.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\accesoDatos.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\Logica.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\bin\accesoDatos.pdb
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Release\Inventario.dll
+C:\inetpub\wwwroot\Inventario\Aplicacion\Inventario\Publicado\obj\Release\Inventario.pdb

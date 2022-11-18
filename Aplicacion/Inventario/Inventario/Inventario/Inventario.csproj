@@ -1,0 +1,571 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8B9D0D11-E332-4073-BF08-C11042C0F5AD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inventario</RootNamespace>
+    <AssemblyName>Inventario</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.5.60623.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AjaxControlToolkit.Binary.NET35\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="BasicFrame.WebControls.BasicDatePicker, Version=1.4.3.40829, Culture=neutral, PublicKeyToken=e1cce521aa9b4849, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\BasicDatePicker_1_4_3\BasicFrame.WebControls.BasicDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Web\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.DynamicData, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.DynamicData\3.5.0.0__31bf3856ad364e35\System.Web.DynamicData.dll</HintPath>
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarEquipo.aspx.cs">
+      <DependentUpon>BuscarEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuscarEquipo.aspx.designer.cs">
+      <DependentUpon>BuscarEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarHerramienta.aspx.cs">
+      <DependentUpon>BuscarHerramienta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuscarHerramienta.aspx.designer.cs">
+      <DependentUpon>BuscarHerramienta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AjustesProducto.aspx.cs">
+      <DependentUpon>AjustesProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AjustesProducto.aspx.designer.cs">
+      <DependentUpon>AjustesProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CambioPswd.aspx.cs">
+      <DependentUpon>CambioPswd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CambioPswd.aspx.designer.cs">
+      <DependentUpon>CambioPswd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarIngresoProducto.aspx.cs">
+      <DependentUpon>EditarIngresoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarIngresoProducto.aspx.designer.cs">
+      <DependentUpon>EditarIngresoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarProducto.aspx.cs">
+      <DependentUpon>EditarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarProducto.aspx.designer.cs">
+      <DependentUpon>EditarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarProducto.aspx.cs">
+      <DependentUpon>ModificarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModificarProducto.aspx.designer.cs">
+      <DependentUpon>ModificarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rpIngresoProducto.aspx.cs">
+      <DependentUpon>rpIngresoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpIngresoProducto.aspx.designer.cs">
+      <DependentUpon>rpIngresoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rpBajasProducto.aspx.cs">
+      <DependentUpon>rpBajasProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpBajasProducto.aspx.designer.cs">
+      <DependentUpon>rpBajasProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rpSalidaProducto.aspx.cs">
+      <DependentUpon>rpSalidaProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpSalidaProducto.aspx.designer.cs">
+      <DependentUpon>rpSalidaProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_BajasProducto.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_BajasProducto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rp_CostoPracticas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_CostoPracticas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rp_IngresoProducto.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_IngresoProducto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rp_ProductosDisponibles.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_ProductosDisponibles.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpProductosDisponibles.aspx.cs">
+      <DependentUpon>rpProductosDisponibles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpProductosDisponibles.aspx.designer.cs">
+      <DependentUpon>rpProductosDisponibles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_InventarioEquipo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_InventarioEquipo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpInventarioEquipo.aspx.cs">
+      <DependentUpon>rpInventarioEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpInventarioEquipo.aspx.designer.cs">
+      <DependentUpon>rpInventarioEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_PracticasProductosControlados.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_PracticasProductosControlados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpPracticasProductosControlados.aspx.cs">
+      <DependentUpon>rpPracticasProductosControlados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpPracticasProductosControlados.aspx.designer.cs">
+      <DependentUpon>rpPracticasProductosControlados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rpCostoPracticas.aspx.cs">
+      <DependentUpon>rpCostoPracticas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpCostoPracticas.aspx.designer.cs">
+      <DependentUpon>rpCostoPracticas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rpProductosControlados.aspx.cs">
+      <DependentUpon>rpProductosControlados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpProductosControlados.aspx.designer.cs">
+      <DependentUpon>rpProductosControlados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_ProductosControlados.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_ProductosControlados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes.aspx.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes.aspx.designer.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DevolucionEquipo.aspx.cs">
+      <DependentUpon>DevolucionEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevolucionEquipo.aspx.designer.cs">
+      <DependentUpon>DevolucionEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrestamoEquipo.aspx.cs">
+      <DependentUpon>PrestamoEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrestamoEquipo.aspx.designer.cs">
+      <DependentUpon>PrestamoEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearPresentacion.aspx.cs">
+      <DependentUpon>CrearPresentacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearPresentacion.aspx.designer.cs">
+      <DependentUpon>CrearPresentacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearFamilia.aspx.cs">
+      <DependentUpon>CrearFamilia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearFamilia.aspx.designer.cs">
+      <DependentUpon>CrearFamilia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearProveedor.aspx.cs">
+      <DependentUpon>CrearProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearProveedor.aspx.designer.cs">
+      <DependentUpon>CrearProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoProducto.aspx.cs">
+      <DependentUpon>NuevoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NuevoProducto.aspx.designer.cs">
+      <DependentUpon>NuevoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_ProductosSinExistencia.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_ProductosSinExistencia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rpProductosSinExistencia.aspx.cs">
+      <DependentUpon>rpProductosSinExistencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rpProductosSinExistencia.aspx.designer.cs">
+      <DependentUpon>rpProductosSinExistencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarHerramienta.aspx.cs">
+      <DependentUpon>EditarHerramienta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarHerramienta.aspx.designer.cs">
+      <DependentUpon>EditarHerramienta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoHerramienta.aspx.cs">
+      <DependentUpon>IngresoHerramienta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IngresoHerramienta.aspx.designer.cs">
+      <DependentUpon>IngresoHerramienta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarEquipo.aspx.cs">
+      <DependentUpon>EditarEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarEquipo.aspx.designer.cs">
+      <DependentUpon>EditarEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearUsuarios.aspx.cs">
+      <DependentUpon>CrearUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearUsuarios.aspx.designer.cs">
+      <DependentUpon>CrearUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.aspx.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.aspx.designer.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BuscarUsuarios.aspx.cs">
+      <DependentUpon>BuscarUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuscarUsuarios.aspx.designer.cs">
+      <DependentUpon>BuscarUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarUsuarios.aspx.cs">
+      <DependentUpon>EditarUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarUsuarios.aspx.designer.cs">
+      <DependentUpon>EditarUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearRoles.aspx.cs">
+      <DependentUpon>CrearRoles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearRoles.aspx.designer.cs">
+      <DependentUpon>CrearRoles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearPaginas.aspx.cs">
+      <DependentUpon>CrearPaginas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearPaginas.aspx.designer.cs">
+      <DependentUpon>CrearPaginas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarRoles.aspx.cs">
+      <DependentUpon>BuscarRoles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuscarRoles.aspx.designer.cs">
+      <DependentUpon>BuscarRoles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EgresoProducto.aspx.cs">
+      <DependentUpon>EgresoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EgresoProducto.aspx.designer.cs">
+      <DependentUpon>EgresoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoProducto.aspx.cs">
+      <DependentUpon>IngresoProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IngresoProducto.aspx.designer.cs">
+      <DependentUpon>IngresoProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoEquipo.aspx.cs">
+      <DependentUpon>IngresoEquipo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IngresoEquipo.aspx.designer.cs">
+      <DependentUpon>IngresoEquipo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrearUbicacion.aspx.cs">
+      <DependentUpon>CrearUbicacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrearUbicacion.aspx.designer.cs">
+      <DependentUpon>CrearUbicacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rp_SalidaProducto.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_SalidaProducto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Logica\Logica\Logica.csproj">
+      <Project>{C51A7FCA-D9DF-4963-8AC9-A264E64D6AFA}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BuscarEquipo.aspx" />
+    <Content Include="BuscarHerramienta.aspx" />
+    <Content Include="AjustesProducto.aspx" />
+    <Content Include="CambioPswd.aspx" />
+    <Content Include="EditarIngresoProducto.aspx" />
+    <Content Include="EditarProducto.aspx" />
+    <Content Include="ModificarProducto.aspx" />
+    <Content Include="rpIngresoProducto.aspx" />
+    <Content Include="rpBajasProducto.aspx" />
+    <Content Include="rpSalidaProducto.aspx" />
+    <Content Include="rpProductosDisponibles.aspx" />
+    <Content Include="rpInventarioEquipo.aspx" />
+    <Content Include="rpPracticasProductosControlados.aspx" />
+    <Content Include="rpCostoPracticas.aspx" />
+    <Content Include="rpProductosControlados.aspx" />
+    <Content Include="Reportes.aspx" />
+    <Content Include="DevolucionEquipo.aspx" />
+    <Content Include="images\arrow.gif" />
+    <Content Include="images\arrow_over.gif" />
+    <Content Include="images\button1a.gif" />
+    <Content Include="images\button4.gif" />
+    <Content Include="images\button4a.gif" />
+    <Content Include="images\down.gif" />
+    <Content Include="PrestamoEquipo.aspx" />
+    <Content Include="CrearPresentacion.aspx" />
+    <Content Include="CrearFamilia.aspx" />
+    <Content Include="CrearProveedor.aspx" />
+    <Content Include="NuevoProducto.aspx" />
+    <Content Include="rpProductosSinExistencia.aspx" />
+    <Content Include="EditarHerramienta.aspx" />
+    <Content Include="IngresoHerramienta.aspx" />
+    <Content Include="EditarEquipo.aspx" />
+    <Content Include="CrearUsuarios.aspx" />
+    <Content Include="css\aural.css" />
+    <Content Include="design\1.png" />
+    <Content Include="design\2.png" />
+    <Content Include="design\bg.gif" />
+    <Content Include="design\bg_page.gif" />
+    <Content Include="design\bg_page_in.jpg" />
+    <Content Include="design\btn_more.gif" />
+    <Content Include="design\col_bg.gif" />
+    <Content Include="design\col_title_bg.gif" />
+    <Content Include="design\col_top.gif" />
+    <Content Include="design\content_article_bg.jpg" />
+    <Content Include="design\content_title_bg.gif" />
+    <Content Include="design\footer.jpg" />
+    <Content Include="design\header.jpg" />
+    <Content Include="design\ico_archive.gif" />
+    <Content Include="design\ico_archive2.gif" />
+    <Content Include="design\ico_cat.gif" />
+    <Content Include="design\ico_comments.gif" />
+    <Content Include="design\ico_date.gif" />
+    <Content Include="design\ico_links.gif" />
+    <Content Include="design\ico_list.gif" />
+    <Content Include="design\ico_rss.gif" />
+    <Content Include="design\ico_top.gif" />
+    <Content Include="design\ico_user.gif" />
+    <Content Include="design\search_input.gif" />
+    <Content Include="design\search_submit.gif" />
+    <Content Include="design\tab_active_l.gif" />
+    <Content Include="design\tab_active_r.gif" />
+    <Content Include="design\tab_hover.gif" />
+    <Content Include="design\tab_hover_l.gif" />
+    <Content Include="design\tab_hover_r.gif" />
+    <Content Include="design\tab_link.gif" />
+    <Content Include="design\tab_link_l.gif" />
+    <Content Include="design\tab_link_r.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="css\main.css" />
+    <Content Include="MasterPage.Master" />
+    <Content Include="Principal.aspx" />
+    <Content Include="css\print.css" />
+    <Content Include="BuscarUsuarios.aspx" />
+    <Content Include="EditarUsuarios.aspx" />
+    <Content Include="CrearRoles.aspx" />
+    <Content Include="CrearPaginas.aspx" />
+    <Content Include="BuscarRoles.aspx" />
+    <Content Include="EgresoProducto.aspx" />
+    <Content Include="IngresoProducto.aspx" />
+    <Content Include="IngresoEquipo.aspx" />
+    <Content Include="CrearUbicacion.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="rp_BajasProducto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_BajasProducto.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_CostoPracticas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_CostoPracticas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_IngresoProducto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_IngresoProducto.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_ProductosSinExistencia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_ProductosSinExistencia.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_ProductosControlados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_ProductosControlados.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_PracticasProductosControlados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_PracticasProductosControlados.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_InventarioEquipo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_InventarioEquipo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_ProductosDisponibles.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_ProductosDisponibles.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rp_SalidaProducto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rp_SalidaProducto.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51558</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
